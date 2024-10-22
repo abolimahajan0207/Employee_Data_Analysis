@@ -10,6 +10,9 @@
 
 Hello everyone! I am thrilled to announce that I have secured a Data Analyst Internship at Psyliq. I’ve been tasked with an exciting challenge — an Employee Data Analysis Assessment comprising 20 questions.
 
+# Goal of the project
+The goal of employee data analysis is to optimize workforce management by collecting, analyzing, and interpreting employee-related data. This analysis aims to identify trends in performance, engagement, and retention, enabling informed decision-making to enhance productivity and employee satisfaction. Ultimately, it seeks to improve organizational effectiveness by aligning human resources strategies with business objectives.
+
 ## Datasets
 
 **employee_data:** It contains information about the Employee demographics.
