@@ -1,19 +1,19 @@
 # Employee_Data_Analysis
 
 
-## Table Of Contents
+# Table Of Contents
 - [Introduction](#introduction)
 - [Datasets](#Datasets)
 - [Task_Questions](#Task_Questions)
 
-## Introduction
+# Introduction
 
 Hello everyone! I am thrilled to announce that I have secured a Data Analyst Internship at Psyliq. I’ve been tasked with an exciting challenge — an Employee Data Analysis Assessment comprising 20 questions.
 
-# Goal of the project
+## Goal of the project
 The goal of employee data analysis is to optimize workforce management by collecting, analyzing, and interpreting employee-related data. This analysis aims to identify trends in performance, engagement, and retention, enabling informed decision-making to enhance productivity and employee satisfaction. Ultimately, it seeks to improve organizational effectiveness by aligning human resources strategies with business objectives.
 
-## Datasets
+# Datasets
 
 **employee_data:** It contains information about the Employee demographics.
 <br>
@@ -24,7 +24,7 @@ The goal of employee data analysis is to optimize workforce management by collec
 **Training_and_Development_data:** It contains the Training date and details of the Training program of each employee.
 
 
-## Task_Questions
+# Task_Questions
 1. Can you create a pivot table to summarize the total number of employees in each 
 department?
 2. Apply conditional formatting to highlight employees with a "Performance Score" below 3 
